@@ -1,18 +1,44 @@
 # Assignment1
 # Why Are We Here?
 
-## Working argument
+# When Everyone Can Code, Why Should Designers Learn Programming?
 
-We are moving toward a world in which almost anyone can generate code.
-As code becomes easier to produce, creative intention and aesthetic
-judgement will become more important. Designers and artists should learn
-programming so that they can turn those forms of judgement into working
-systems, rather than merely accepting what AI generates.
+Opening: AI is making code accessible to everyone.
 
-## Questions to develop
+Central thesis: designers should learn programming to turn aesthetic judgement into systems and challenge AI's defaults.
 
-- Is generating code the same as understanding it?
-- Can AI imitate an aesthetic without having an artistic intention?
-- Why does a designer need to understand code if AI can write it?
-- What example from my own practice demonstrates this difference?
-- What part of programming may genuinely become obsolete?
+## Aesthetic Output Is Not Artistic Intention
+
+AI can produce polished work, but producing an aesthetic result is not the same as having an artistic intention.
+
+## What the Machine Did Not Understand
+
+My personal and specific example.
+
+Explain exactly what AI produced, what was wrong, and how I judged it.
+
+## Programming Beyond the Prompt
+
+Explain why prompting alone is insufficient.
+
+Programming allows designers to change the system's possibilities.
+
+## Code as a Creative Material
+
+Discuss one example from Dylan Beattie's The Art of Code.
+
+Connect programming to paint, light, photography, or another artistic medium.
+
+## What If AI Becomes Better?
+
+Acknowledge that AI may become much better and that hand-written code may become less important.
+
+Explain why judgement, understanding, intention, and responsibility remain.
+
+## Why I Am Here
+
+Return to the question.
+
+Conclude that you are learning programming to retain creative agency, not to compete with AI.
+
+## References
