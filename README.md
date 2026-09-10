@@ -2,14 +2,11 @@
 # Why Are We Here?
 
 # When Everyone Can Code, Why Should Designers Learn Programming?
-
-Opening: AI is making code accessible to everyone.
-
-Central thesis: designers should learn programming to turn aesthetic judgement into systems and challenge AI's defaults.
+We are moving toward a world in which almost anyone can generate code. A person without a strong technical background can now build a basic website, create an animation, or develop an interactive visual work. This does not mean that everyone has become a programmer, but it does mean that the technical barrier to creating digital work is becoming lower.As production becomes easier, the central question shifts from whether something can be made to whether it is meaningful or worth making. This is why I believe designers and artists still need to learn programming. Their goal is not to compete with AI in speed, but to understand the medium well enough to guide it, question its default results, and bring their own creative intentions and aesthetic judgement into the work.
 
 ## Aesthetic Output Is Not Artistic Intention
 
-AI can produce polished work, but producing an aesthetic result is not the same as having an artistic intention.
+AI can already produce images and interfaces that appear polished, balanced, and visually convincing. However, I do not think that producing an aesthetic result is the same as having an aesthetic intention. AI learns patterns from existing data. It can recognise that particular colours, compositions, and styles frequently appear together, and it can generate new combinations of those patterns. Google's DeepDream experiments demonstrate this clearly. The system produced strange and visually fascinating images by amplifying features that its neural network had learned to recognise (Mordvintsev, 2015). These results can look original, but the system does not have a personal reason for making them. It does not decide what a work should communicate in a particular social or cultural context. It does not care whether the result is meaningful, predictable, offensive, or boring. Those decisions still belong to the person using the system.
 
 ## What the Machine Did Not Understand
 
