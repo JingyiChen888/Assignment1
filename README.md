@@ -1,6 +1,6 @@
 # Assignment1-Why Are We Here?
 
-# When Everyone Can Code, Why Should Designers Learn Programming?
+# When Everyone Can Generate Code, Why Should Designers Learn Programming?
 We are moving toward a world in which almost anyone can generate code. A person without a strong technical background can now build a basic website, create an animation, or develop an interactive visual work. This does not mean that everyone has become a programmer, but it does mean that the technical barrier to creating digital work is becoming lower.As production becomes easier, the central question shifts from whether something can be made to whether it is meaningful or worth making. This is why I believe designers and artists still need to learn programming. Their goal is not to compete with AI in speed, but to understand the medium well enough to guide it, question its default results, and bring their own creative intentions and aesthetic judgement into the work.
 
 ## Aesthetic Output Is Not Artistic Intention
@@ -27,3 +27,11 @@ AI may eventually become much better at understanding design intentions, and des
 I am here because, when code becomes available to everyone, the ability to give it direction will matter more. Learning programming gives me a way to turn aesthetic judgement into behaviour, interaction, and structure. It allows me to work with AI without surrendering every creative decision to it. I want AI to expand what I can create, but I do not want its existing patterns and default settings to decide the limits of what I can imagine.
 
 ## References
+Ihde, D. (1990). *Technology and the lifeworld: From garden to earth*. Indiana University Press.
+https://iupress.org/9780253114167/technology-and-the-lifeworld/
+
+Mordvintsev, A., Olah, C., & Tyka, M. (2015, June 18). *Inceptionism: Going deeper into neural networks*. Google Research.
+https://research.google/blog/inceptionism-going-deeper-into-neural-networks/
+
+NDC Conferences. (2020, February 26). *The art of code—Dylan Beattie* [Video]. YouTube.
+https://www.youtube.com/watch?v=6avJHaC3C2U
