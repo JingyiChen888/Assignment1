@@ -1,5 +1,4 @@
-# Assignment1
-# Why Are We Here?
+# Assignment1-Why Are We Here?
 
 # When Everyone Can Code, Why Should Designers Learn Programming?
 We are moving toward a world in which almost anyone can generate code. A person without a strong technical background can now build a basic website, create an animation, or develop an interactive visual work. This does not mean that everyone has become a programmer, but it does mean that the technical barrier to creating digital work is becoming lower.As production becomes easier, the central question shifts from whether something can be made to whether it is meaningful or worth making. This is why I believe designers and artists still need to learn programming. Their goal is not to compete with AI in speed, but to understand the medium well enough to guide it, question its default results, and bring their own creative intentions and aesthetic judgement into the work.
@@ -20,14 +19,11 @@ In *The Art of Code*, Dylan Beattie presents programming as more than a tool for
 
 ## What If AI Becomes Better?
 
-Acknowledge that AI may become much better and that hand-written code may become less important.
+AI may eventually become much better at understanding design intentions, and designers may need to write very little code by hand. However, this does not make programming knowledge irrelevant. The value of learning programming may shift from memorising syntax to understanding logic, structure, and system behaviour. Even if AI handles most of the production, designers still need to question its decisions, recognise when its defaults conflict with their intentions, and take responsibility for the final result. A more capable AI does not remove the need for judgement; it makes that judgement more important.
 
-Explain why judgement, understanding, intention, and responsibility remain.
 
 ## Why I Am Here
 
-Return to the question.
-
-Conclude that you are learning programming to retain creative agency, not to compete with AI.
+I am here because, when code becomes available to everyone, the ability to give it direction will matter more. Learning programming gives me a way to turn aesthetic judgement into behaviour, interaction, and structure. It allows me to work with AI without surrendering every creative decision to it. I want AI to expand what I can create, but I do not want its existing patterns and default settings to decide the limits of what I can imagine.
 
 ## References
