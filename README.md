@@ -12,16 +12,11 @@ AI can already produce images and interfaces that appear polished, balanced, and
 When I worked as a product management intern, I used Claude to create an early prototype for a product idea. It quickly generated a working interface with navigation, buttons, and basic interactions. However, the result looked like a generic software product, with familiar card layouts, safe colours, and a predictable visual hierarchy. Claude could follow individual requirements, but it did not understand which part of the user experience was most important. When I asked it to fix one problem, it sometimes changed another interaction or added features that I had not requested. This made me realise that a clear prompt is not always a precise specification. If I understand the structure and logic of code, I can adjust the system more directly instead of repeatedly asking AI to regenerate it. Claude could build the prototype, but it could not decide the product’s intention for me.
 
 ## Programming Beyond the Prompt
-
-Explain why prompting alone is insufficient.
-
-Programming allows designers to change the system's possibilities.
+If AI can already write code, it may seem that designers only need to learn how to write better prompts. However, designers who rely only on prompting remain dependent on the system's interpretation of language. The AI platform still decides which parameters can be adjusted, how the system behaves, and what kinds of results are easiest to generate. In *The Art of Code*, Beattie introduces a photo artist who explains that he was previously limited by what his tools allowed him to do. Learning programming enabled him to move beyond the existing interface and work more directly with the graphics engine (NDC Conferences, 2020, 22:50–23:50). A designer who only prompts AI can select from the possibilities it offers, while a designer who understands programming can change what is possible. Programming allows designers to translate aesthetic decisions into rules, such as how an image changes over time, how randomness is controlled, and how users interact with a work. It also allows them to read and modify generated code insteadlac of repeatedly asking AI to try again.
 
 ## Code as a Creative Material
 
-Discuss one example from Dylan Beattie's The Art of Code.
-
-Connect programming to paint, light, photography, or another artistic medium.
+In *The Art of Code*, Dylan Beattie presents programming as more than a tool for solving practical problems. His examples include Conway's Game of Life, the Mandelbrot set, generative photography, visual programming languages, and live coding with music. These works show that code can be a creative material in its own right (NDC Conferences, 2020). One artist in the talk explains that he had previously been limited by what his tools permitted him to do. Learning programming allowed him to move beneath the interface and explore the graphics engine itself. This example is important to me because it shows that tools are not neutral. As Don Ihde argues, technologies mediate how people perceive and experience the world (Ihde, 1990). If designers do not understand their computational tools, they may mistake the limitations of those tools for the limits of their own imagination.
 
 ## What If AI Becomes Better?
 
