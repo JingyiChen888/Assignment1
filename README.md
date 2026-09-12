@@ -12,7 +12,7 @@ When I worked as a product management intern, I used Claude to build an early pr
 
 I asked Claude several times to remove the extra scrollbar. Although the request seemed clear, its revisions either kept the problem or changed another part of the interface. I could describe the visible problem, but I could not specify the technical change that was needed. I eventually asked a front-end colleague for help. After inspecting the code, my colleague located and fixed the problem in about thirty seconds.
 
-This contrast was important to me. From a product design perspective, I could recognise that the two scrollbars made the interaction confusing. However, without enough programming knowledge, I could not trace the cause or judge whether Claude was changing the correct part of the system. The experience showed me that prompting and programming are not interchangeable skills. I do not need to write code faster than AI, but I need enough understanding to diagnose and control what it produces.
+This contrast was important to me. From a product perspective, I could see that the two scrollbars made the interaction confusing. My design judgement allowed me to recognise the problem, while programming knowledge would have allowed me to understand and change the system that produced it. However, without enough programming knowledge, I could not trace the cause or judge whether Claude was changing the correct part of the system. The experience showed me that prompting and programming are not interchangeable skills. I do not need to write code faster than AI, but I need enough understanding to diagnose and control what it produces.
 
 ## Programming Beyond the Prompt
 
@@ -25,7 +25,7 @@ In *The Art of Code*, Beattie introduces a photographic artist who had previousl
 
 AI may eventually become much better at understanding design intentions, and designers may need to write very little code by hand. However, this does not make programming knowledge irrelevant. The value of learning programming may shift from memorising syntax to understanding logic, structure, and system behaviour. Even if AI handles most of the production, designers still need to question its decisions, recognise when its defaults conflict with their intentions, and take responsibility for the final result. A more capable AI does not remove the need for judgement; it makes that judgement more important.
 
-I am here because, when code becomes available to everyone, the ability to give it direction will matter more. Learning programming gives me a way to turn aesthetic judgement into behaviour, interaction, and structure. It allows me to work with AI without surrendering every creative decision to it. I want AI to expand what I can create, but I do not want its existing patterns and default settings to decide the limits of what I can imagine.
+This is why I am here. My experience with the CMS prototype showed me that recognising a design problem is not always enough when I cannot locate it within the system. I want to learn programming so that I can move from describing what I want to specifying and shaping how it works. AI can expand what I create, but it should not determine the boundaries of my imagination.
 
 ## References
 
