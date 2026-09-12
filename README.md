@@ -12,7 +12,7 @@ When I worked as a product management intern, I used Claude to build an early pr
 
 I asked Claude several times to remove the extra scrollbar. Although the request seemed clear, its revisions either kept the problem or changed another part of the interface. I could describe the visible problem, but I could not specify the technical change that was needed. I eventually asked a front-end colleague for help. After inspecting the code, my colleague located and fixed the problem in about thirty seconds.
 
-This contrast was important to me. From a product perspective, I could see that the two scrollbars made the interaction confusing. My design judgement allowed me to recognise the problem, while programming knowledge would have allowed me to understand and change the system that produced it. However, without enough programming knowledge, I could not trace the cause or judge whether Claude was changing the correct part of the system. The experience showed me that prompting and programming are not interchangeable skills. I do not need to write code faster than AI, but I need enough understanding to diagnose and control what it produces.
+This contrast was important to me. From a product perspective, I could see that the two scrollbars made the interaction confusing. My design judgement allowed me to recognise the problem, but without enough programming knowledge, I could not trace its cause, change the system that produced it, or judge whether Claude was modifying the correct part of the code. The experience showed me that prompting and programming are not interchangeable skills. I do not need to write code faster than AI, but I need enough understanding to diagnose and control what it produces.
 
 ## Programming Beyond the Prompt
 
